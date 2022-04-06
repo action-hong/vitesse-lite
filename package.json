@@ -34,6 +34,9 @@
     "vue-tsc": "^0.33.9"
   },
   "eslintConfig": {
-    "extends": "@antfu"
+    "extends": "@antfu",
+    "rules": {
+      "curly": ["error", "all"]
+    }
   }
 }
