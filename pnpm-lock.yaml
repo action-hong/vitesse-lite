@@ -4,7 +4,7 @@ specifiers:
   '@antfu/eslint-config': ^0.19.4
   '@iconify-json/carbon': ^1.1.2
   '@types/node': ^17.0.23
-  '@unocss/reset': ^0.30.11
+  '@unocss/reset': 0.32.1
   '@vitejs/plugin-vue': ^2.3.1
   '@vue/test-utils': ^2.0.0-rc.18
   '@vueuse/core': ^8.2.4
@@ -31,7 +31,7 @@ devDependencies:
   '@antfu/eslint-config': 0.19.4_eslint@8.12.0+typescript@4.6.3
   '@iconify-json/carbon': 1.1.2
   '@types/node': 17.0.23
-  '@unocss/reset': 0.30.11
+  '@unocss/reset': 0.32.1
   '@vitejs/plugin-vue': 2.3.1_vite@2.9.1+vue@3.2.31
   '@vue/test-utils': 2.0.0-rc.18_vue@3.2.31
   eslint: 8.12.0
@@ -522,6 +522,10 @@ packages:
 
   /@unocss/reset/0.30.11:
     resolution: {integrity: sha512-nWw7mvzgjRGa0f9KHpB5SOdP0p44OyKSLFfV/U97ge04eexKT7X1NfJ7mLZuhJp3B0ukf6oES0jtRNPZA1VIjA==}
+    dev: true
+
+  /@unocss/reset/0.32.1:
+    resolution: {integrity: sha512-tC2gCYY2isEDfBo1LWfcPAnxuM3my29fWtFUQRGvViZVTwYFjVIGD8BgIfiioifGumLunRW78qN7LT22fXoxgg==}
     dev: true
 
   /@unocss/scope/0.30.11:
